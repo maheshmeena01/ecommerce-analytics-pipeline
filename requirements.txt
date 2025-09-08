@@ -1,0 +1,18 @@
+# For database connection and data manipulation
+psycopg2-binary
+SQLAlchemy
+pandas
+
+# For API
+Flask
+
+# For Recommendation Engine
+scikit-learn
+scipy
+
+# For Dashboard
+dash
+plotly
+
+# For Data Simulation
+Fakerdash-bootstrap-components
